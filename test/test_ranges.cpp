@@ -1,6 +1,7 @@
 #include <rx/ranges.hpp>
 
 #include <algorithm>
+#include <cmath>
 #include <string>
 #include <unordered_map>
 
